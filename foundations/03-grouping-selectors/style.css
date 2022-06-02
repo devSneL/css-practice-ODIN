@@ -1,0 +1,14 @@
+button{
+    font-size: 28px;
+    font-family: sans-serif;
+}
+
+.darkBG{
+    color: white;
+    background-color: black;
+}
+
+.yellBG{
+    background-color: yellow;
+
+}
